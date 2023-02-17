@@ -1,2 +1,2 @@
-# NatGeo-Cohort36
+# NatGeo-ITM
 In-class exercise
